@@ -1,0 +1,210 @@
+
+
+
+.gridContainerAPO{
+    
+    display: grid;
+    grid-template-columns: 40% 60% ; 
+    grid-column-gap: 2em;
+}
+
+.profileTitleAPO{
+    display: flex;
+    flex-direction: row ;
+    width: 100%;
+    justify-content: space-between;
+    margin-left: 220px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.editAPO{
+    margin-top: 24px;
+    /* margin-right: 30px; */
+    margin-left: 180px;
+
+}
+
+
+
+.contentCardAPO{
+    width: 350px;
+    height: 400px;
+    border: 2px solid black;
+    margin-left: 220px;
+    margin-top: 30px;
+    border-radius: 10px;
+
+
+    /* outline-color: black;
+    display: flex;
+    align-items: center; */
+}
+
+.photoGalleryAPO{
+    width: 650px;
+    height: 170px;
+    /* border: 2px solid black; */
+    margin-top: 30px;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 158px 158px 158px 158px;
+}
+
+.photo1APO{
+    width:150px;
+    height: 150px;
+    margin: 4px;
+    border: 2px solid black;
+}
+
+.photo2APO{
+    width:150px;
+    height: 150px;
+    margin: 4px;
+    border: 2px solid black;
+}
+
+.video1APO{
+    width:150px;
+    height: 150px;
+    margin: 4px;
+    border: 2px solid black;
+}
+
+.video2APO{
+    width:150px;
+    height: 150px;
+    margin: 4px;
+    border: 2px solid black;
+}
+
+.instagramLinkAPO{
+width: 640px;
+height:30px;
+/* border: 2px solid black; */
+padding-left: 7px;
+display: flex;
+justify-content: flex-start;
+font-weight: bold;
+}
+
+.soundcloudLinkAPO{
+    width: 640px;
+    height:30px;
+    /* border: 2px solid black; */
+    padding-left: 7px;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+
+.spotifyLinkAPO{
+    width: 640px;
+    height:30px;
+    /* border: 2px solid black; */
+    padding-left: 7px;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+
+.linksAPO{
+    display: grid;
+    grid-template-columns: 100%; 
+
+ } 
+
+
+  
+  .requestButtonsAPO button {
+    width: 25%;
+    margin-left: 400px;
+    margin-top: 5px;
+  }
+
+  
+.profilePicAPO{
+    border-radius: 50%;
+    height:96px;
+    width:96px;
+    background-color: grey;
+    margin-top:10px;
+    margin-left:10px;
+
+}
+
+.contentCardAPO{
+    display: grid;
+    grid-template-columns: 100% ;
+}
+
+
+.nameAPO{
+
+    margin-top: 10px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+
+.bioAPO {
+    display: grid;
+    grid-template-columns: 100%;
+    margin-top: 10px;
+    margin-bottom: 170px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+  .bioTitleAPO {
+    font-weight: bold;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .bioParagraphAPO {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+  }
+  
+  .instrumentsAPO {
+    display: grid;
+    grid-template-columns: 100%;
+    margin-top: 10px;
+    margin-bottom: 170px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .instTitleAPO{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .instCirclesAPO{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+  }
+
+  .instIconsAPO{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 2px solid black; 
+  }
+
+  .nameAPO2{
+    margin-left: 3px;
+    font-weight: lighter;
+  }

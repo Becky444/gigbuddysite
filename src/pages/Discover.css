@@ -1,0 +1,26 @@
+.fullPageD{
+ grid-template-columns: 50% 50%;
+}
+
+
+
+.resultContainerD {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    margin-top: px;
+    justify-content: space-between;
+    float: right;
+    margin-right: 200px;
+  }
+  
+.dropDowns{
+  margin-left: 245px;
+  max-width: 300px;
+  
+}
+
+.buttonD{
+  margin-left: 350px;
+  margin-top: 20px;
+}

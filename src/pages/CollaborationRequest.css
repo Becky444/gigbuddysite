@@ -1,0 +1,20 @@
+.collaborationRequestFormCR label {
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+    text-align: left;
+  }
+  
+  .collaborationRequestFormCR input {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .collaborationRequestFormCR{
+    margin-left: 240px;
+  }
+

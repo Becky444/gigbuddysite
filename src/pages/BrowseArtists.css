@@ -1,0 +1,36 @@
+
+.browseArtistPicBA{
+    border: 2px solid black;
+    width:100px;
+    height: 100px;
+}
+
+.artistCardBA{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:20%;
+
+}
+
+.artistCardTxtBA{
+ font-size: 12px;
+
+}
+
+
+.artistsContainerBA {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  margin-left: 230px;
+}
+
+.artistCardBA {
+  width: 25%;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+}
+
+

@@ -1,0 +1,36 @@
+.welcomeimage{
+
+        margin-left: 50px;
+        /* height: 300px; */
+        width: 560px;
+        /* background: black; */
+        justify-content: right;
+        align-items: center;
+
+}
+
+.titleandtext{
+        width: 30%;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+        text-align: left;
+        /* margin-left: 230px; */
+        margin-top: 50px;
+
+}
+
+.overall{
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+        justify-content: center;
+}
+
+.signupbuttons{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 270px;
+}
+

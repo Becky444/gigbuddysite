@@ -1,0 +1,81 @@
+.leftPanelPromoter{
+
+    height: 700px;
+    width: 50%;
+    background-color: #278F89;
+    display: flex;
+    justify-content: center;
+
+   
+}
+
+.rightPanelPromoter{
+
+    height: 700px;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+
+
+   
+}
+
+.promoterSignUpText{
+    display: flex;
+    align-items: center;
+    max-height: 300px;
+    max-width: 350px;
+    text-align: left;
+    justify-content: center;
+    color: white;
+}
+
+.SignUpTitlePromoter {
+
+    margin: 0px;
+
+
+}
+
+.fullPage{
+    display: flex;
+    width: 100%;
+  
+
+}
+
+.signUpTitlePromoter2{
+    display: flex;
+    max-height: 100px;
+    max-width: 350px;
+    text-align: left;
+    justify-content: left;
+    float: left;
+    color: black;
+    padding-top: 50px;
+    padding-left: 80px;
+
+}
+
+.promoterForm{
+max-width: 300px;
+padding-left: 80px;    
+}
+
+.input{
+
+float: right;
+
+}
+
+.label{
+    float: left;
+}
+
+.submit {
+    align-items: baseline;
+}
+
+

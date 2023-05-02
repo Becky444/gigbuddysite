@@ -1,0 +1,60 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #060606;
+    padding: 20px 80px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06)
+}
+
+#Header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+}
+
+#Header li{
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+}
+
+#Header li a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #fff;
+    transition: 0.3s ease-in-out;
+    
+}
+
+#Header li a:hover{
+    color: #276A8F;
+}
+
+.navlinks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 90px;
+    padding-right: 120px;
+}
+
+.headerbtns{
+    float: right;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width:190px;
+    height: 50px;
+}
+
+.logodiv{
+    display: flex;
+    float: left;
+    align-items: left;
+
+}

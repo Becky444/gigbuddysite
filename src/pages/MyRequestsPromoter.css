@@ -1,0 +1,115 @@
+
+.gridContainerMRP{
+    grid-template-columns: 100%;
+}
+
+.profileTitleMRP{
+    text-align: left;
+    margin-left: 230px;
+    margin-top: 30px;
+}
+
+.subtitleMRP{
+text-align: left;
+margin-left: 230px;
+    
+}
+.eventsAndCollabsMRP{
+    border: 2px solid black;
+    width: 950px;
+    margin-left: 230px;
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    /* grid-template-columns: 20% 20% 20% 20% 20%; */
+    margin-bottom: 12px;
+}
+
+.eventPicMRP{
+    border: 2px solid black;   
+    width: 170px;  
+    height: 100px;
+    margin-top: 7px;
+    margin-left: 7px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+.eventDetailsMRP{
+ grid-template-columns: 100%;
+ width: 150px;
+ text-align: left;
+ margin-top: 10px;
+ margin-left: 10px;
+ width: 170px;  
+ height: 100px;
+}
+
+
+
+.capDetailsMRP{
+text-align: left;
+margin-top: 35px;
+margin-left: 23px;
+}
+
+.acceptMRP{
+ 
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 60px;
+}
+
+.rejectMRP{
+
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+
+.emailpromoterMRP{
+
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 70px;
+
+}
+
+.accept2MRP{
+ 
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left:370px;
+}
+
+.reject2MRP{
+
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+
+.emailpromoter2MRP{
+
+    width: 40px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 40px;
+
+}
+
+.statusMRP{
+    border: 2px black;
+    font-size: 12px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+

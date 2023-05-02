@@ -1,0 +1,83 @@
+.leftPanelArtist{
+
+    height: 700px;
+    width: 50%;
+    background-color: #276A8F;
+    display: flex;
+    justify-content: center;
+
+   
+}
+
+.rightPanelArtist{
+
+    height: 700px;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+
+
+   
+}
+
+.artistSignUpText{
+    display: flex;
+    align-items: center;
+    max-height: 300px;
+    max-width: 350px;
+    text-align: left;
+    justify-content: center;
+    color: white;
+}
+
+.SignUpTitleArtist {
+
+    margin: 0px;
+
+
+}
+
+.fullPage{
+    display: flex;
+    width: 100%;
+  
+
+}
+
+.signUpTitleArtist2{
+    display: flex;
+    max-height: 100px;
+    max-width: 350px;
+    text-align: left;
+    justify-content: left;
+    float: left;
+    color: black;
+    padding-top: 70px;
+    padding-left: 80px;
+
+}
+
+.artistForm{
+max-width: 300px;
+padding-left: 80px;    
+}
+
+.input{
+
+float: right;
+
+}
+
+.label{
+    float: left;
+}
+
+.submit {
+    align-items: baseline;
+}
+
+.tandcs{
+    margin-left: 80px;
+}
